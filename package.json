@@ -1,0 +1,15 @@
+{
+  "name": "@types/plist",
+  "version": "1.0.0",
+  "description": "Type Definition for plist module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vikas Soni",
+  "license": "ISC",
+  "keywords": [
+    "Types",
+    "Plist"
+  ]
+}
